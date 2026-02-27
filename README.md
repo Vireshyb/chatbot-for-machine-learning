@@ -13,7 +13,7 @@ This repository contains a simple Machine Learning chatbot that can be hosted on
 5. Scroll down to the "GitHub Pages" section
 6. Under "Source", select "main" branch
 7. Click "Save"
-8. Your chatbot will be available at: `https://[your-username].github.io/[repository-name]/`
+8. Your chatbot will be available at: `https://[vireshyb].github.io/[https://github.com/Vireshyb/chatbot-for-machine-learning]/`
 
 ## Alternative Hosting Options
 
